@@ -1,1 +1,3 @@
- vi sample.rbmsg = "Hello World!"
+ 
+vi sample.rbmsg = "Hello World!"
+puts msg
